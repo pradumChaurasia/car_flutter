@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244356321520",
+    "project_id": "carflutter-a6cf1",
+    "storage_bucket": "carflutter-a6cf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244356321520:android:6daf1a881b9c7d0dc63235",
+        "android_client_info": {
+          "package_name": "com.example.car_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLQ4egLykjlavqSUpwaQqh37I4GlWG9Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
